@@ -14,13 +14,13 @@
                         </a>
                     </li>
                     {% endif %}
-                    <!-- add jianshu add target = "_blank" to <a> by BY -->
-                    {% if site.jianshu_username %}
+                    <!-- add instagram add target = "_blank" to <a> by TAOLI -->
+                    {% if site.instagram_username %}
                             <li>
-                                <a target="_blank" href="https://www.jianshu.com/u/{{ site.jianshu_username }}">
+                                <a target="_blank" href="https://www.instagram.com/{{ site.instagram_username }}">
                                     <span class="fa-stack fa-lg">
                                         <i class="fa fa-circle fa-stack-2x"></i>
-                                        <i class="fa  fa-stack-1x fa-inverse">简</i>
+                                        <i class="fa  fa-stack-1x fa-inverse"></i>
                                     </span>
                                 </a>
                             </li>
@@ -36,7 +36,7 @@
                     </li>
                     {% endif %}
 
-                    <!-- add Weibo, Zhihu by Hux, add target = "_blank" to <a> by Hux -->
+                    <!-- add Weibo, Zhihu by TAOLI, add target = "_blank" to <a> by TAOLI -->
                     {% if site.zhihu_username %}
                     <li>
                         <a target="_blank" href="https://www.zhihu.com/people/{{ site.zhihu_username }}">
@@ -69,6 +69,7 @@
                         </a>
                     </li>
                     {% endif %}
+                    
                     {% if site.github_username %}
                     <li>
                         <a target="_blank" href="https://github.com/{{ site.github_username }}">
@@ -79,6 +80,7 @@
                         </a>
                     </li>
                     {% endif %}
+                    
                     {% if site.linkedin_username %}
                     <li>
                         <a target="_blank" href="https://www.linkedin.com/in/{{ site.linkedin_username }}">
@@ -198,24 +200,6 @@
 
     ga('create', _gaId, _gaDomain);
     ga('send', 'pageview');
-</script>
-{% endif %}
-
-
-<!-- Baidu Tongji -->
-{% if site.ba_track_id %}
-<script>
-    // dynamic User by Hux
-    var _baId = '{{ site.ba_track_id }}';
-
-    // Originial
-    var _hmt = _hmt || [];
-    (function() {
-      var hm = document.createElement("script");
-      hm.src = "//hm.baidu.com/hm.js?" + _baId;
-      var s = document.getElementsByTagName("script")[0];
-      s.parentNode.insertBefore(hm, s);
-    })();
 </script>
 {% endif %}
 
