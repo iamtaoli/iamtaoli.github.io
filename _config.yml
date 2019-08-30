@@ -1,9 +1,9 @@
 # Site settings
-title: BY Blog
+title: TAOLI'S BLOG
 SEOTitle: TAOLI'S BLOG
 header-img: img/post-bg-desk.jpg
 email: taoli@me.com
-description: "勇敢做自己。
+description: "勇敢做自己。"
 keyword: "TL, TAOLI'S BLOG, iOS, Apple"
 url: "https://iamtaoli.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -18,7 +18,7 @@ sidebar-avatar: /img/about-taoli-gentle.jpg      # use absolute URL, seeing it's
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
+# weibo_username: taoli
 zhihu_username: iamtaoli
 github_username: iamtaoli
 twitter_username: iamtaoli
@@ -49,7 +49,7 @@ gems: [jekyll-paginate]
 markdown: kramdown
 highlighter: rouge
 kramdown:
-  input: GFM                            # use Github Flavored Markdown !important
+input: GFM                            # use Github Flavored Markdown !important
 
 
 
@@ -59,24 +59,22 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: flase    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  repo: iamtaoli.github.io    #仓库名称
+  owner: iamtaoli    #github用户名
+  admin: iamtaoli
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # 统计
 
-# Analytics settings
-# Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_track_id: 'UA-146675072-1'            # Format: UA-xxxxxx-xx
+ga_domain: iamtaoli.github.io              # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
@@ -96,13 +94,7 @@ service-worker: true
 
 # Friends
 friends: [
-    {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
+   {
         title: "Apple",
         href: "https://apple.com"
     },{
