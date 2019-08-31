@@ -7,40 +7,61 @@ http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=029&FvSeid=1&Fsv_ctype=LIVES&Fs
 http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=010&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 
 #EXTINF:-1, CCTV-3
-http://223.110.242.130:6610/gitv/live1/G_CCTV-3-CQ/1.m3u8
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=021&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 
 #EXTINF:-1, CCTV-4
-http://223.110.242.130:6610/gitv/live1/G_CCTV-4-CQ/1.m3u8
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=026&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 
 #EXTINF:-1, CCTV-5
-http://223.110.242.130:6610/gitv/live1/G_CCTV-5-CQ/1.m3u8
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=031&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 
 #EXTINF:-1, CCTV-5+
-http://223.110.242.130:6610/gitv/live1/G_CCTV-5PLUS-CQ/1.m3u8
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=036&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 
 #EXTINF:-1, CCTV-6
-http://223.110.242.130:6610/gitv/live1/G_CCTV-6-CQ/1.m3u8
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=011&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 
 #EXTINF:-1, CCTV-7
-http://112.50.243.7/PLTV/88888888/224/3221225805/index.m3u8
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=028&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 
 #EXTINF:-1, CCTV-8
-http://223.110.242.130:6610/gitv/live1/G_CCTV-8-CQ/1.m3u8
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=032&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 
 #EXTINF:-1, CCTV-9
-http://112.50.243.7/PLTV/88888888/224/3221225820/index.m3u8
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=033&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 
 #EXTINF:-1, CCTV-10
-http://112.50.243.7/PLTV/88888888/224/3221225814/index.m3u8
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=004&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 
 #EXTINF:-1, CCTV-11
-http://112.50.243.7/PLTV/88888888/224/3221225815/index.m3u8
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=104&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 
 #EXTINF:-1, CCTV-12
-http://112.50.243.7/PLTV/88888888/224/3221225816/index.m3u8
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=034&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 
 #EXTINF:-1, CCTV-13
-http://112.50.243.7/PLTV/88888888/224/3221225815/index.m3u8
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=100&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 
 #EXTINF:-1, CCTV-14
-http://112.50.243.7/PLTV/88888888/224/3221225819/index.m3u8
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=035&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+
+#EXTINF:-1, CCTV-15
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=134&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+
+#EXTINF:-1, 江苏卫视
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=005&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+
+#EXTINF:-1, 湖南卫视
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=006&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+
+#EXTINF:-1, 浙江卫视
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=013&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+
+#EXTINF:-1, 北京卫视
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=030&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+
+#EXTINF:-1, 凤凰卫视
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=190&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+
+#EXTINF:-1, 翡翠台
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
