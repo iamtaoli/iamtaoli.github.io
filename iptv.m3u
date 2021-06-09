@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 ,CCTV-1
-http://v.mp.haue.edu.cn/v2/play/cctv1hd
+http://v.mp.haue.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 ,CCTV-2
 http://v.mp.haue.edu.cn/v2/play/cctv2hd
 #EXTINF:-1 ,CCTV-3
