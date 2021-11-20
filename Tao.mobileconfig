@@ -32,7 +32,7 @@
 			<key>ProxyServer</key>
 			<string>10.0.1.71</string>
 			<key>ProxyServerPort</key>
-			<integer>1082</integer>
+			<integer>6152</integer>
 			<key>ProxyType</key>
 			<string>Manual</string>
 			<key>SSID_STR</key>
